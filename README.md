@@ -1,1 +1,19 @@
-# Cafe-Management-System
+<img width="958" alt="Capture d’écran 2024-11-22 191858" src="https://github.com/user-attachments/assets/74bc75c1-a449-4487-b48a-c2122dbf94fd">
+<img width="954" alt="Capture d’écran 2024-11-22 191926" src="https://github.com/user-attachments/assets/f7c52f0c-29a7-470c-be0c-1d5ff3194d40">
+<img width="956" alt="Capture d’écran 2024-11-22 192010" src="https://github.com/user-attachments/assets/4cd29e56-1aef-468b-a9ba-a3c1c793f13e">
+<img width="959" alt="Capture d’écran 2024-11-22 192029" src="https://github.com/user-attachments/assets/e84bcd8d-465c-4f35-9ff5-7cc4bc51b982">
+<img width="958" alt="Capture d’écran 2024-11-22 192145" src="https://github.com/user-attachments/assets/927ed8ec-9ef2-4196-9f18-9703ab5c880a">
+<img width="958" alt="Capture d’écran 2024-11-22 192201" src="https://github.com/user-attachments/assets/4a9b08b6-0d8d-46c2-aed1-593c7f2da63c">
+<img width="958" alt="Capture d’écran 2024-11-22 192218" src="https://github.com/user-attachments/assets/0128653d-d1c0-4fb4-ab29-0eea511d86a0">
+<img width="959" alt="Capture d’écran 2024-11-22 192237" src="https://github.com/user-attachments/assets/a4bab145-31de-431b-bc3d-64250091f346">
+<img width="959" alt="Capture d’écran 2024-11-22 192253" src="https://github.com/user-attachments/assets/0c1c9a0a-c182-48fc-92ea-716ee7a72285">
+<img width="958" alt="Capture d’écran 2024-11-22 192310" src="https://github.com/user-attachments/assets/365fdb77-db54-4d1e-842c-6f1b4dbb44b3">
+<img width="957" alt="Capture d’écran 2024-11-22 192338" src="https://github.com/user-attachments/assets/b9b8d738-c7d7-43a7-a2bc-05b4f65f723d">
+<img width="959" alt="Capture d’écran 2024-11-22 192448" src="https://github.com/user-attachments/assets/8612c4cf-c914-4ddd-b6c7-20b2f34d6c12">
+[BILL-1732299893369 .pdf](https://github.com/user-attachments/files/18026861/BILL-1732299893369.pdf)
+<img width="959" alt="Capture d’écran 2024-11-22 192614" src="https://github.com/user-attachments/assets/add0e6c4-8e19-4aa0-b1f1-22fa208b899f">
+<img width="958" alt="Capture d’écran 2024-11-22 192628" src="https://github.com/user-attachments/assets/c73c5e99-cd92-46a7-9ab2-c6372f0e9112">
+<img width="959" alt="Capture d’écran 2024-11-22 192755" src="https://github.com/user-attachments/assets/98bffac4-2334-493a-9c5d-e8a7f69d6588">
+<img width="959" alt="Capture d’écran 2024-11-22 192807" src="https://github.com/user-attachments/assets/e9b6cf8e-9e3e-44fc-93ce-c2bbdb2453a6">
+<img width="959" alt="Capture d’écran 2024-11-22 192824" src="https://github.com/user-attachments/assets/e83d035a-cdcc-442e-b95c-317183405917">
+<img width="959" alt="Capture d’écran 2024-11-22 192839" src="https://github.com/user-attachments/assets/e19e0cd3-547d-49fd-a4eb-7374bdb53ad2">
