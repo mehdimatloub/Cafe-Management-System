@@ -10,7 +10,7 @@
 <img width="958" alt="Capture d’écran 2024-11-22 192310" src="https://github.com/user-attachments/assets/365fdb77-db54-4d1e-842c-6f1b4dbb44b3">
 <img width="957" alt="Capture d’écran 2024-11-22 192338" src="https://github.com/user-attachments/assets/b9b8d738-c7d7-43a7-a2bc-05b4f65f723d">
 <img width="959" alt="Capture d’écran 2024-11-22 192448" src="https://github.com/user-attachments/assets/8612c4cf-c914-4ddd-b6c7-20b2f34d6c12">
-[BILL-1732299893369 .pdf](https://github.com/user-attachments/files/18026861/BILL-1732299893369.pdf)
+<img width="953" alt="Capture d’écran 2024-11-22 192533" src="https://github.com/user-attachments/assets/95c6afb0-4075-451d-a93c-b9f16a0c2b6c">
 <img width="959" alt="Capture d’écran 2024-11-22 192614" src="https://github.com/user-attachments/assets/add0e6c4-8e19-4aa0-b1f1-22fa208b899f">
 <img width="958" alt="Capture d’écran 2024-11-22 192628" src="https://github.com/user-attachments/assets/c73c5e99-cd92-46a7-9ab2-c6372f0e9112">
 <img width="959" alt="Capture d’écran 2024-11-22 192755" src="https://github.com/user-attachments/assets/98bffac4-2334-493a-9c5d-e8a7f69d6588">
